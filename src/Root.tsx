@@ -92,4 +92,4 @@ export default class Root extends React.Component {
   }
 }
 
-console.disableYellowBox = true; // eslint-disable-line
+console.disableYellowBox = true;
