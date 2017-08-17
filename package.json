@@ -14,7 +14,8 @@
     "@types/react": "^16.0.2",
     "@types/react-native": "^0.47.4",
     "react": "16.0.0-beta.5",
-    "react-native": "0.47.1"
+    "react-native": "0.47.1",
+    "react-native-firebase": "^2.1.2"
   },
   "devDependencies": {
     "@types/react-test-renderer": "^15.5.3",

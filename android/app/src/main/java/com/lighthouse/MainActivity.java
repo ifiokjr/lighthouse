@@ -1,4 +1,4 @@
-package com.lighthouse;
+package social.lighthouse.app;
 
 import com.facebook.react.ReactActivity;
 

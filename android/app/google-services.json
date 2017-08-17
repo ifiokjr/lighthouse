@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "697415312404",
+    "firebase_url": "https://lighthouse-e2641.firebaseio.com",
+    "project_id": "lighthouse-e2641",
+    "storage_bucket": "lighthouse-e2641.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697415312404:android:94f559d094e52b1f",
+        "android_client_info": {
+          "package_name": "social.lighthouse.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697415312404-339kehbdhq82ndnpl1n907gi1ggkugsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVKONz3gWEdU9JTkn0PeLWgR8-3jHQb-M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
